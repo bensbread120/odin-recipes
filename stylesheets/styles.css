@@ -1,0 +1,24 @@
+body {
+  width: 500px;
+  font: "Times New Roman", Times, Serif;
+  background-color: blanchedalmond;
+  margin-left: 40%;
+}
+img {
+  height: auto;
+  width: 500px;
+  border: 5px solid black;
+}
+h1 {
+  text-align: center;
+  background-color: burlywood;
+}
+li {
+  margin-bottom: 5px;
+}
+ol {
+  font-size: 18px;
+}
+.back {
+  margin-bottom: 50px;
+}
